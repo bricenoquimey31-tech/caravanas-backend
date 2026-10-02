@@ -2,9 +2,9 @@
   "name": "caravanas-backend",
   "version": "1.0.0",
   "description": "Backend para sistema de caravanas",
-  "main": "src/index.js",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
